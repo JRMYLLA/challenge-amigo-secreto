@@ -1,5 +1,4 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-// Cramos un Array para almacenar los nombres
+// Función para agregar amigos
 let amigos = [];
 function agregarAmigo() {
     let input = document.querySelector("#amigo");

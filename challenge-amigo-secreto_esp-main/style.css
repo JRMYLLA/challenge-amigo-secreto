@@ -160,3 +160,20 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+/*El boton de limpiar es button-clear*/
+.button-clear {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 25px;
+    padding: 2px 100px;
+    /* Mantén los mismos estilos que tus otros botones */
+}
+
+.button-clear:hover {
+    background-color: #cc0000;
+}
+
+.empty-state {
+    color: #666;
+    font-style: italic;
+}
